@@ -1,3 +1,7 @@
+# Project Overview
+
+This project aims to study effect of useEffect hook in changing the background color of the page in just one click. Multiple background colors could be passed in to the "Color" component and integrated flexibly using minimal code.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
